@@ -1,2 +1,5 @@
 #!/bin/bash
 touch hello
+[master 6f99f56] touch hello
+ 1 file changed, 1 insertion(+)
+ mode change 100644 => 100755 0x01-shell_permissions/4-empty
